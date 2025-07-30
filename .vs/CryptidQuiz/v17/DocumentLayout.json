@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\presentationlayer\\frmtakequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmtakequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB99B119-5E85-454E-B792-CEEB40108F4A}|LogicLayer\\LogicLayer.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\logiclayer\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB99B119-5E85-454E-B792-CEEB40108F4A}|LogicLayer\\LogicLayer.csproj|solutionrelative:logiclayer\\quizmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\presentationlayer\\frmtakequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmtakequiz.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FAE89F-38A4-41AB-B462-D88D2C67481F}|DataDomain\\DataDomain.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\datadomain\\quizleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FAE89F-38A4-41AB-B462-D88D2C67481F}|DataDomain\\DataDomain.csproj|solutionrelative:datadomain\\quizleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26FAE89F-38A4-41AB-B462-D88D2C67481F}|DataDomain\\DataDomain.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\datadomain\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26FAE89F-38A4-41AB-B462-D88D2C67481F}|DataDomain\\DataDomain.csproj|solutionrelative:datadomain\\quizquestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAD206EC-C10A-4442-A67C-86C16F9C5780}|DataAccessLayer\\DataAccessLayer.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\dataaccesslayer\\leaderboarddataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAD206EC-C10A-4442-A67C-86C16F9C5780}|DataAccessLayer\\DataAccessLayer.csproj|solutionrelative:dataaccesslayer\\leaderboarddataaccessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\presentationlayer\\frmleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|c:\\users\\kater\\documents\\spring_2024\\cis-622_crf01\\final_project\\cryptidquiz\\presentationlayer\\frmleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1363869A-6E74-4D30-A7BC-2C94056B75D1}|PresentationLayer\\PresentationLayer.csproj|solutionrelative:presentationlayer\\frmleaderboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTakeQuiz.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmTakeQuiz.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frmTakeQuiz.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmTakeQuiz.cs",
+              "RelativeToolTip": "PresentationLayer\\frmTakeQuiz.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAlwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:59:19.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QuizManager.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\LogicLayer\\QuizManager.cs",
+              "RelativeDocumentMoniker": "LogicLayer\\QuizManager.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\LogicLayer\\QuizManager.cs",
+              "RelativeToolTip": "LogicLayer\\QuizManager.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:59:09.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTakeQuiz.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmTakeQuiz.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frmTakeQuiz.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmTakeQuiz.cs [Design]",
+              "RelativeToolTip": "PresentationLayer\\frmTakeQuiz.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T00:58:14.686Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "QuizQuestion.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataDomain\\QuizQuestion.cs",
+              "RelativeDocumentMoniker": "DataDomain\\QuizQuestion.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataDomain\\QuizQuestion.cs",
+              "RelativeToolTip": "DataDomain\\QuizQuestion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:25:48.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "QuizLeaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataDomain\\QuizLeaderboard.cs",
+              "RelativeDocumentMoniker": "DataDomain\\QuizLeaderboard.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataDomain\\QuizLeaderboard.cs",
+              "RelativeToolTip": "DataDomain\\QuizLeaderboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-16T17:24:45.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaderboardDataAccessor.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataAccessLayer\\LeaderboardDataAccessor.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\LeaderboardDataAccessor.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\DataAccessLayer\\LeaderboardDataAccessor.cs",
+              "RelativeToolTip": "DataAccessLayer\\LeaderboardDataAccessor.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAqwCMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:23:38.711Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmLeaderboard.cs",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmLeaderboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frmLeaderboard.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmLeaderboard.cs",
+              "RelativeToolTip": "PresentationLayer\\frmLeaderboard.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAQwCwAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-02T15:23:38.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmLeaderboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\KateR\\Documents\\Spring_2024\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmLeaderboard.cs",
+              "RelativeDocumentMoniker": "PresentationLayer\\frmLeaderboard.cs",
+              "ToolTip": "C:\\Users\\KateR\\Documents\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmLeaderboard.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\CIS-622_CRF01\\Final_Project\\CryptidQuiz\\PresentationLayer\\frmLeaderboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-10-02T15:23:40.3Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
